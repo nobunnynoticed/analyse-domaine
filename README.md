@@ -46,7 +46,7 @@
 
 ![Ubisoft](entreprise.jpg)
 
-(par Dennis Zhang, [Source](https://www.challenges.fr/entreprise/tech-numerique/ubisoft-un-nouveau-logo-pour-une-nouvelle-ere_477019), [CC BY]().)
+(par Dennis Zhang, [Source](https://unsplash.com/fr/photos/le-siege-social-dubisoft-montreal-est-situe-dans-un-batiment-en-brique-eomfnamQM38), [CC BY]().)
 
 - Types de produits et de services : Création de personnages, conception d'images, affiches, logos, illustrations et éléments visuels pour les jeux vidéo.
 - Étapes de production :
