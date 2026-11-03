@@ -45,8 +45,8 @@
 - Exemple d'entreprise : Ubisoft.
 
 ![Ubisoft](entreprise.jpg)
-Dennis Zhang, (pas de titre), CC BY
-(source de l'image : https://www.challenges.fr/entreprise/tech-numerique/ubisoft-un-nouveau-logo-pour-une-nouvelle-ere_477019)
+
+(par Dennis Zhang, [Source](https://www.challenges.fr/entreprise/tech-numerique/ubisoft-un-nouveau-logo-pour-une-nouvelle-ere_477019), [CC BY]().)
 
 - Types de produits et de services : Création de personnages, conception d'images, affiches, logos, illustrations et éléments visuels pour les jeux vidéo.
 - Étapes de production :
